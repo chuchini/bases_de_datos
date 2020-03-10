@@ -1,0 +1,2 @@
+ALTER TABLE Persona
+ADD sGenero VARCHAR(5);

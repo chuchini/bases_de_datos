@@ -1,0 +1,50 @@
+1 - Taco Bistec - 21
+2 - Taco Costilla Res - 21
+3 - Taco Chorizo - 21
+4 - Taco Cecina Adobada - 21
+5 - Taco Aguja Norteña - 21
+6 - Taco Pechuga de Pollo - 21
+7 - Taco Chuleta Ahumada - 21
+8 - Taco Costilla de Roast Beef - 50
+9 - Taco Combinado - 50
+10 - Taco Filete Auténtico - 60
+11 - Taco de Arrachera - 60
+12 - Taco Alambre Sencillo - 65
+13 - Taco Nopal - 15
+14 - Taco Chuleta con Tocino - 34
+15 - Taco al Pastor - 8
+16 - Quesadilla Norteña (Tortilla de Harina y Queso) - 25
+17 - Quesadilla Azteca (Tortilla de Maíz y Queso) - 25
+18 - Nopal con Queso - 18
+19 - Bistec con Queso (Chuleta, Pollo, Chorizo, etc.) - 42
+20 - Chile Suizo - 38
+21 - Gringa (Tortilla de Harina, Pastor y Queso) - 44
+22 - Alambre con Queso - 75
+23 - Carne Asada - 70
+24 - Carne Tampiqueña (con guarnición) - 100 
+25 - Arrachera (con guarnición) - 100
+26 - Chuleta con Tocino y Queso - 50 
+27 - Parrillada - 250
+28 - Queso Mexicano (Chuleta y Salsa Mexicana) - 70
+29 - Queso Toluqueño - 70
+30 - Queso Hawaiano - 70
+31 - Queso con Ahumada y Piña - 70
+32 - Queso con Champiñones - 70
+33 - Queso Manchego - 60
+34 - Cazuela de Queso - 34
+35 - Frijoles Charros - 27
+36 - Consomé - 27
+37 - Enfrijoladas (2 Tacos) - 15
+38 - Orden de Cebollas Sencillas - 18
+39 - Orden de Cebollas Preparadas - 22
+40 - Orden de Aguacate - 22
+41 - Orden de Tortillas de Harina - 6
+42 - Flan Napolitano - 23
+43 - Arroz con Leche - 23
+44 - Agua (Horchata, Jamaica y Natural) - 15
+45 - Café de Olla - 18 
+46 - Refresco - 18
+47 - Cerveza (Sol, Indio, XX) - 23
+48 - Michelada (Sol, Indio, XX) - 26
+49 - Cerveza Oscura (Bohemia, Negra Modelo) - 26
+50 - Michelada Cerveza Oscura (Bohemia, Negra Modelo) - 28
